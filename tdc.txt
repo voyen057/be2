@@ -1,1 +1,1 @@
-tdc file week1
+tdc file main week1
